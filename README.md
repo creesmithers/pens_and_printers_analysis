@@ -1,4 +1,5 @@
 # Pens and Printers Revenue Analysis
+**Note:** This project was completed as part of a DataCamp Data Analyst Certification course. My more recent projects reflect my current technical skill, please see the pinned repositories on my GitHub profile.
 
 ## Overview
 This project cleans and validates data to help with analysis. The goal was to understand drivers of revenue and what ad campaigns to prioritize between calls, emails, or both.  
@@ -30,5 +31,3 @@ Product Sales (Pens and Printers).pptx   - Slide deck summarizing analysis, stat
 pens_and_printers_notebook.ipynb         - Jupyter notebook containing data cleaning, exploratory data analysis, and statistical testing
 pens_and_printers_visual.pbix            - PowerBI dashboard used to visualize revenue trends by contact method and week. 
 
-## Note
-This analysis was originally developed as part of a DataCamp project and was expanded with PowerBI visuals. 
